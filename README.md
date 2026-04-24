@@ -1,6 +1,7 @@
 # 🎅 Santa's Agony: Optimization with Algorithms
-This project was developed as a team project for a 2021 university algorithms course.
+This project was developed as a team project for a university algorithms course (2021)
 [View Proposal PDF](./Santa's%20Agony_%20Proposal.pdf)
+
 
 This holiday, good children receive gifts from Santa 🎁  
 To make this possible, we developed an optimization system using:
