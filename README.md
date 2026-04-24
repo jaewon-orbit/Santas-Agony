@@ -34,8 +34,9 @@ We solve these using classic algorithms:
 
 
 
-👉 Or view full PDF:  
+## 📄 Proposal
 
+[View Proposal PDF](./Santa's%20Agony_%20Proposal.pdf)
 
 ---
 
