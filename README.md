@@ -27,20 +27,21 @@ We solve these using classic algorithms:
 
 ---
 
+
+## 📄 GUI Scenario
+
+GUI (screen flow and user scenarios): [GUI_scenario.pdf](./GUI_scenario.pdf)
+
+---
+
 ## 🎥 Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/VC1JSJyHedY/0.jpg)](https://youtu.be/VC1JSJyHedY)
 
 ---
 
-## 📄 GUI Scenario
+## 🎁 Knapsack (Gift Selection)
 
-GUI (screen flow and user scenarios): [GUI_scenario.pdf](./GUI_scenario.pdf)
-
-
-## 🧠 Algorithm Details
-
-### 🎁 Knapsack (Gift Selection)
-
-- Input: Shopping list (`price`, `quantity`, `weight`)
-- Value function:
+- Input: price, quantity, weight  
+- Value: worth = price × quantity / weight  
+- Goal: maximize total worth within capacity
